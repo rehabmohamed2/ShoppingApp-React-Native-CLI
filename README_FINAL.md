@@ -1,4 +1,4 @@
-# 3 Pages Store - React Native App
+# Shopping Store - React Native App
 
 A minimal React Native application that demonstrates authentication, product browsing, offline caching, biometric security, and auto-lock functionality using DummyJSON API.
 
